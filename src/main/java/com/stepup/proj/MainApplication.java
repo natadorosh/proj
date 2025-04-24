@@ -7,5 +7,6 @@ public class MainApplication {
         System.out.println("2222");
         System.out.println("3333");
         System.out.println("444455555");
+        System.out.println("66666");
     }
 }
